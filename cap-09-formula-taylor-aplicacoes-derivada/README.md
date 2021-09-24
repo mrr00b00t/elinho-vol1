@@ -1,0 +1,1 @@
+# Soluções do Capítulo 9: Fórmula de Taylor e Aplicações da Derivada
